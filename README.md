@@ -1,4 +1,4 @@
-first_app
+First Application
 =========
 
 # Ruby on Rails tutorial first application project
